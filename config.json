@@ -1,4 +1,4 @@
 {
-  "feature1" : true,
-  "feature2" : false
+  "feature1": false,
+  "feature2": false
 }
